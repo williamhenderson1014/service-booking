@@ -1,0 +1,18 @@
+hi, I'm very interested in your online service booking platform project. I understand you need a complete solution with real-time tracking and Stripe integration for the Australian market.
+
+I've developed a functional prototype that demonstrates the main features:
+
+- landing page with service categories, popular services, and how it works section
+- services listing with category filters, search, and sorting options
+- multi-step booking flow: date/time selection, provider choice, and secure payment
+- client dashboard to manage bookings, view payment history, and update profile
+- provider dashboard with earnings tracking, availability management, and booking requests
+- real-time tracking page with live map simulation, ETA countdown, and provider contact
+- Stripe payment integration ready (card input, secure checkout flow)
+- fully responsive design optimized for mobile, tablet, and desktop
+
+live demo: https://github.com/williamhenderson1014/service-booking
+
+the architecture is built with Next.js and TypeScript, ready to connect to a real backend and Stripe API. I have experience with Google Maps integration for real-time location services and building similar marketplace platforms.
+
+I'd love to discuss the specific service categories you want to offer and any additional features you have in mind.

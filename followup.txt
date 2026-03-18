@@ -1,0 +1,3 @@
+hi, while building the demo I noticed that the real-time tracking experience is what separates good booking platforms from great ones. clients want to know exactly when their provider will arrive, not just a vague time window.
+
+did you get a chance to check out the tracking page? I'd love to hear your thoughts on the user experience.
